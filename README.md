@@ -1,12 +1,4 @@
-<h1 align='center'>
-  <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
-    <img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Matias Otero' width='200'>
-  </a>
-  <br>
-  Matias Otero
-  <br>
-</h1>
+<h1 align="center">Hola, Soy Matias Otero <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2>
   <picture>
@@ -15,11 +7,12 @@
   Sobre mi
 </h2>
 
-- :school: Estudiante de la carrera Analista Programador en la Universidad Abierta Interamericana
-- :technologist: Experiencia en Automatizacion Robotica de Procesos (RPA) en FyS Tech Group
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge  
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style=flat-square)](mailto:eliochiu2@gmail.com)  
-- :nerd_face: Always believe `"You are what you loved"`  
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+
+- :school: Estudiante de la carrera Analista Programador en la Universidad Abierta Interamericana.
+- :technologist: Experiencia en Automatizacion Robotica de Procesos (RPA) en FyS Tech Group.
+- :computer: Interes por Data Science, Big Data, Machine Learning.
+<br>
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Habilidades: </h2>
 
@@ -57,4 +50,7 @@
 <a href="https://github.com/MatiOteroB">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+
+
 
