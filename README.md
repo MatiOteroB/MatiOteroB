@@ -12,6 +12,7 @@
 - :school: Estudiante de la carrera Analista Programador en la Universidad Abierta Interamericana.
 - :technologist: Experiencia en Automatizacion Robotica de Procesos (RPA) en FyS Tech Group.
 - :computer: Interes por Data Science, Big Data, Machine Learning.
+- :bust_in_silhouette: Nivel Intermedio de Ingles.
 <br>
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Habilidades: </h2>
