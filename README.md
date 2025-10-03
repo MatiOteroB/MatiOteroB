@@ -7,7 +7,7 @@
   Sobre mi
 </h2>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 150px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 - :school: Estudiante de la carrera Analista Programador en la Universidad Abierta Interamericana.
 - :technologist: Experiencia en Automatizacion Robotica de Procesos (RPA) en FyS Tech Group.
